@@ -1,0 +1,120 @@
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.exe
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csprojAssemblyReference.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.AssemblyInfoInputs.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.AssemblyInfo.cs
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.RazorTargetAssemblyInfo.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\staticwebassets\Transportation System.StaticWebAssets.Manifest.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\staticwebassets\Transportation System.StaticWebAssets.xml
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csproj.CopyComplete
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.deps.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.runtimeconfig.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.runtimeconfig.dev.json
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.pdb
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.dll
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.pdb
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.genruntimeconfig.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csproj.CoreCompileInputs.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.MvcApplicationPartsAssemblyInfo.cache
+F:\Iti\31- MVC\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.exe
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.deps.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.runtimeconfig.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.runtimeconfig.dev.json
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Transportation System.pdb
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csprojAssemblyReference.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.AssemblyInfoInputs.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.AssemblyInfo.cs
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csproj.CoreCompileInputs.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.MvcApplicationPartsAssemblyInfo.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.RazorTargetAssemblyInfo.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.csproj.CopyComplete
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\staticwebassets\Transportation System.StaticWebAssets.Manifest.cache
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\staticwebassets\Transportation System.StaticWebAssets.xml
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.dll
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.pdb
+F:\Iti\31- MVC\New folder\Transportation System\Transportation System\obj\Debug\netcoreapp3.1\Transportation System.genruntimeconfig.cache

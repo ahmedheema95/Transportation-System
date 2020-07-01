@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iashe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iashe\\.nuget\\packages"
+    ]
+  }
+}
